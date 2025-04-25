@@ -1,0 +1,17 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     02:27 Friday, April 25, 2025
+Design Path:        D:\git\github\codarover\Schematic\CodaRover1.pcb
+Design Title:       
+Created:            2022/04/10 3:23:23
+Last Saved:         2025/04/25 2:27:03
+Editing Time:       1967 min
+Units:              mm (precision 3)
+
+
+Checking integrity of Schematic "D:\git\github\codarover\Schematic\CodaRover1.sch" with PCB "D:\git\github\codarover\Schematic\CodaRover1.pcb"
+==============================================================================================================================================
+
+
+End Of Report.
