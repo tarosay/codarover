@@ -1,44 +1,45 @@
 Forward Design Changes Report
 -----------------------------
 
-Report Written:     04:21 Saturday, April 26, 2025
+Report Written:     04:41 Saturday, April 26, 2025
 Design Path:        D:\git\github\codarover\Schematic\CodaRover1.pcb
 Design Title:       
 Created:            2022/04/10 3:23:23
-Last Saved:         2025/04/26 4:14:28
-Editing Time:       2559 min
+Last Saved:         2025/04/26 4:21:58
+Editing Time:       2570 min
 Units:              mm (precision 3)
 
-Disconnected pin "CONN10.3" from net "N0323".
-Disconnected pin "CONN11.3" from net "N0323".
-Disconnected pin "CONN12.3" from net "N0323".
+Added net "N0373".
+Added net "N0374".
+Added net "N0375".
+Added net "N0376".
 
-Deleted net "N0323".
+Added component reference "CONN15" of component "PIN3", package "DIL".
+Added component reference "CONN16" of component "PIN3", package "DIL".
+Added component reference "CONN17" of component "PIN3", package "DIL".
+Added component reference "CONN18" of component "PIN3", package "DIL".
+Added component reference "CONN19" of component "PIN3", package "DIL".
+Added component reference "CONN20" of component "PIN3", package "DIL".
+Added component reference "CONN21" of component "PIN3", package "DIL".
+Added component reference "CONN22" of component "PIN3", package "DIL".
+Added component reference "CONN23" of component "PIN3", package "DIL".
+Added component reference "CONN24" of component "PIN3", package "DIL".
+Added component reference "CONN25" of component "PIN3", package "DIL".
 
-Connected pin "CONN10.3" to net "GND".
-Connected pin "CONN11.3" to net "GND".
-Connected pin "CONN12.3" to net "GND".
-
-Net "N0347" changed from net class "Signal" to net class "Power Motor".
-Net "N0353" changed from net class "Signal" to net class "Power Motor".
-Net "N0354" changed from net class "Signal" to net class "Power Motor".
-Net "N0356" changed from net class "Signal" to net class "Power Motor".
-Net "N0358" changed from net class "Signal" to net class "Power Motor".
-Net "N0359" changed from net class "Signal" to net class "Power Motor".
-Net "N0360" changed from net class "Signal" to net class "Power Motor".
-
-Net N0311 renamed to N5
-Net N0326 renamed to N6
-Net N0337 renamed to N7
-Net N0338 renamed to N8
-Net N0343 renamed to N9
-Net N0347 renamed to N10
-Net N0353 renamed to N11
-Net N0354 renamed to N12
-Net N0356 renamed to N13
-Net N0358 renamed to N14
-Net N0359 renamed to N15
-Net N0360 renamed to N16
+Connected pin "CONN5.34" to net "N0375".
+Connected pin "CONN5.40" to net "N0373".
+Connected pin "CONN5.33" to net "N0376".
+Connected pin "CONN5.35" to net "N0374".
+Connected pin "CONN15.1" to net "N9".
+Connected pin "CONN15.2" to net "+3.3V".
+Connected pin "CONN15.3" to net "GND".
+Connected pin "CONN16.1" to net "N10".
+Connected pin "CONN16.2" to net "+3.3V".
+Connected pin "CONN16.3" to net "GND".
+Connected pin "CONN17.1" to net "N0373".
+Connected pin "CONN18.1" to net "N0374".
+Connected pin "CONN19.1" to net "N0375".
+Connected pin "CONN20.1" to net "N0376".
 
 
 End Of Report.
