@@ -1,45 +1,15 @@
 Forward Design Changes Report
 -----------------------------
 
-Report Written:     04:41 Saturday, April 26, 2025
+Report Written:     04:13 Sunday, April 27, 2025
 Design Path:        D:\git\github\codarover\Schematic\CodaRover1.pcb
 Design Title:       
 Created:            2022/04/10 3:23:23
-Last Saved:         2025/04/26 4:21:58
-Editing Time:       2570 min
+Last Saved:         2025/04/27 4:13:26
+Editing Time:       2797 min
 Units:              mm (precision 3)
 
-Added net "N0373".
-Added net "N0374".
-Added net "N0375".
-Added net "N0376".
-
-Added component reference "CONN15" of component "PIN3", package "DIL".
-Added component reference "CONN16" of component "PIN3", package "DIL".
-Added component reference "CONN17" of component "PIN3", package "DIL".
-Added component reference "CONN18" of component "PIN3", package "DIL".
-Added component reference "CONN19" of component "PIN3", package "DIL".
-Added component reference "CONN20" of component "PIN3", package "DIL".
-Added component reference "CONN21" of component "PIN3", package "DIL".
-Added component reference "CONN22" of component "PIN3", package "DIL".
-Added component reference "CONN23" of component "PIN3", package "DIL".
-Added component reference "CONN24" of component "PIN3", package "DIL".
-Added component reference "CONN25" of component "PIN3", package "DIL".
-
-Connected pin "CONN5.34" to net "N0375".
-Connected pin "CONN5.40" to net "N0373".
-Connected pin "CONN5.33" to net "N0376".
-Connected pin "CONN5.35" to net "N0374".
-Connected pin "CONN15.1" to net "N9".
-Connected pin "CONN15.2" to net "+3.3V".
-Connected pin "CONN15.3" to net "GND".
-Connected pin "CONN16.1" to net "N10".
-Connected pin "CONN16.2" to net "+3.3V".
-Connected pin "CONN16.3" to net "GND".
-Connected pin "CONN17.1" to net "N0373".
-Connected pin "CONN18.1" to net "N0374".
-Connected pin "CONN19.1" to net "N0375".
-Connected pin "CONN20.1" to net "N0376".
+The designs are the same, so no design changes to forward.
 
 
 End Of Report.
