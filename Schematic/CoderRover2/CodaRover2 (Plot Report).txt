@@ -1,0 +1,279 @@
+Plot Report
+-----------
+
+Report Written:     03:57 Wednesday, April 30, 2025
+Design Path:        D:\git\github\codarover\Schematic\CodaRover2.pcb
+Design Title:       
+Created:            2022/04/10 3:23:23
+Last Saved:         2025/04/30 3:46:17
+Editing Time:       3291 min
+Units:              mm (precision 3)
+
+
+Device Settings
+===============
+
+
+Gerber Settings
+===============
+
+    Leading zero suppression.
+    G01 assumed throughout.
+    Line termination <*> <CR> <LF>.
+    3.5 format absolute mm.
+    Format commands defined in Gerber file.
+    Aperture table defined in Gerber file.
+    Hardware arcs allowed.
+
+
+Drill Settings
+==============
+
+    Excellon Format 1
+    Format 3.4 absolute in mm.
+    Zero suppression Leading
+
+
+
+Plots Output
+============
+
+
+Gerber Output
+=============
+
+D:\git\github\codarover\Schematic\CodaRover2 - Top Silkscreen.gbr
+
+    Layers:
+    ------------------
+    Top Silkscreen
+
+    D-Code Shape  (mm)
+    ---------------------
+    D10    Round 0.025
+    D11    Round 0.127
+
+Gerber Output
+=============
+
+D:\git\github\codarover\Schematic\CodaRover2 - Top Copper.gbr
+
+    Layers:
+    --------------
+    Top Copper
+
+    D-Code Shape  (mm)
+    ----------------------------------------------
+    D12    Round 0.305
+    D13    Round 0.254
+    D14    Round 0.800
+    D15    Round 0.600
+    D16    Round 0.400
+    D17    Round 2.200
+    D18    Round 0.550
+    D19    Round 0.500
+    D70    Round 0.650
+    D71    Round 1.016
+    D20    Oval 1.300 X 2.000
+    D21    Rectangle 1.400 X 1.420
+    D22    Round 1.400
+    D23    Round 1.524
+    D24    Round 1.350
+    D25    Rectangle 0.400 X 1.450
+    D26    Rectangle 0.800 X 0.800
+    D27    Rectangle 0.800 X 0.800  Rotation 90
+    D28    Rectangle 1.000 X 1.300
+    D29    Round 5.250
+    D72    Round 3.600
+    D73    Round 2.000
+
+Gerber Output
+=============
+
+D:\git\github\codarover\Schematic\CodaRover2 - Top Solder Mask.gbr
+
+    Layers:
+    -------------------
+    Top Solder Mask
+
+    D-Code Shape  (mm)
+    ----------------------------------------------
+    D74    Oval 1.452 X 2.152
+    D75    Rectangle 1.552 X 1.572
+    D76    Round 1.552
+    D77    Round 1.676
+    D78    Round 1.502
+    D79    Rectangle 0.552 X 1.602
+    D80    Rectangle 0.952 X 0.952
+    D81    Rectangle 0.952 X 0.952  Rotation 90
+    D82    Rectangle 1.152 X 1.452
+    D83    Round 5.402
+    D84    Round 3.752
+    D85    Round 2.152
+
+Gerber Output
+=============
+
+D:\git\github\codarover\Schematic\CodaRover2 - Bottom Silkscreen.gbr
+
+    Layers:
+    ---------------------
+    Bottom Silkscreen
+
+    D-Code Shape  (mm)
+    ---------------------
+    D10    Round 0.025
+    D11    Round 0.127
+    D12    Round 0.305
+    D19    Round 0.500
+
+Gerber Output
+=============
+
+D:\git\github\codarover\Schematic\CodaRover2 - Bottom Copper.gbr
+
+    Layers:
+    -----------------
+    Bottom Copper
+
+    D-Code Shape  (mm)
+    ---------------------------------
+    D12    Round 0.305
+    D13    Round 0.254
+    D14    Round 0.800
+    D17    Round 2.200
+    D71    Round 1.016
+    D20    Oval 1.300 X 2.000
+    D21    Rectangle 1.400 X 1.420
+    D22    Round 1.400
+    D23    Round 1.524
+    D24    Round 1.350
+    D29    Round 5.250
+    D72    Round 3.600
+    D73    Round 2.000
+
+Gerber Output
+=============
+
+D:\git\github\codarover\Schematic\CodaRover2 - Bottom Solder Mask.gbr
+
+    Layers:
+    ----------------------
+    Bottom Solder Mask
+
+    D-Code Shape  (mm)
+    ---------------------------------
+    D74    Oval 1.452 X 2.152
+    D75    Rectangle 1.552 X 1.572
+    D76    Round 1.552
+    D77    Round 1.676
+    D78    Round 1.502
+    D83    Round 5.402
+    D84    Round 3.752
+    D85    Round 2.152
+
+Gerber Output
+=============
+
+D:\git\github\codarover\Schematic\CodaRover2 - Gerber Drill Data - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+    D-Code Shape  (mm)
+    ---------------------
+    D86    Round 1.500
+    D87    Round 0.610
+    D88    Round 0.600
+    D89    Round 0.900
+    D90    Round 0.813
+    D91    Round 0.813
+    D92    Round 3.150
+    D93    Round 2.000
+    D94    Round 1.200
+
+NC Drill Output
+===============
+
+D:\git\github\codarover\Schematic\CodaRover2 - NC Drill Data - [Through Hole].drl
+
+    Output:
+    ---------------------------
+    Plated Round Drill Holes
+    Plated Slots
+
+    Tool  Size      Count   ID
+    ---------------------------------
+    T001  0.6000 mm 2     F
+    T002  0.6096 mm 18    B
+    T003  0.8128 mm 4     H
+    T004  0.8130 mm 83    G
+    T005  0.9000 mm 63    C
+    T006  1.2000 mm 2     K
+    T007  1.5000 mm 12    A
+    T008  2.0000 mm 8     J
+    T009  3.1500 mm 4     I
+    ---------------------------------
+    Total           196
+    ---------------------------------
+
+D:\git\github\codarover\Schematic\CodaRover2 - NC Drill Data - [Through Hole] (Unplated).drl
+
+    Output:
+    -----------------------------
+    Unplated Round Drill Holes
+    Unplated Slots
+
+    Tool  Size Count   ID
+    ----------------------------
+    ----------------------------
+    Total      0
+    ----------------------------
+
+
+Gerber Output
+=============
+
+D:\git\github\codarover\Schematic\CodaRover2 - Drill Ident Drawing - [Through Hole].gbr
+
+    Layers:
+    ------------------
+    [Through Hole]
+
+
+Drill Ident Drawing
+===================
+
+    Drill Plated Size  Shape ID
+    ------------------------------------
+    1.500 Y      2.540 Round A
+    0.610 Y      2.540 Round B
+    0.900 Y      2.540 Round C
+    0.600 Y      2.540 Round F
+    0.813 Y      2.540 Round G
+    0.813 Y      2.540 Round H
+    3.150 Y      2.540 Round I
+    2.000 Y      2.540 Round J
+    1.200 Y      2.540 Round K
+
+    D-Code Shape  (mm)
+    ---------------------
+    D11    Round 0.127
+    D95    Round 2.540
+
+Gerber Output
+=============
+
+D:\git\github\codarover\Schematic\CodaRover2 - Documentation.gbr
+
+    Layers:
+    ------------------
+    Documentation
+    Board Outlines
+
+    D-Code Shape  (mm)
+    ---------------------
+    D12    Round 0.305
+
+End Of Report.

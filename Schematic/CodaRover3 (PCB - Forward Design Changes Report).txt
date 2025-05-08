@@ -1,0 +1,15 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     02:47 Friday, May 09, 2025
+Design Path:        D:\git\github\codarover\Schematic\CodaRover3.pcb
+Design Title:       
+Created:            2022/04/10 3:23:23
+Last Saved:         2025/05/09 2:45:57
+Editing Time:       3411 min
+Units:              mm (precision 3)
+
+The designs are the same, so no design changes to forward.
+
+
+End Of Report.
