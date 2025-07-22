@@ -1,0 +1,31 @@
+# /
+/.git
+
+# Word
+*.doc
+*.docx
+*.dot
+*.dotx
+
+# Excel
+*.xls
+*.xlsx
+*.xlsm
+*.xlt
+*.xltx
+
+# PowerPoint
+*.ppt
+*.pptx
+*.pps
+*.potx
+
+
+*.odt
+*.ods
+*.odp
+~*
+*.jw$
+*.BAK
+
+
